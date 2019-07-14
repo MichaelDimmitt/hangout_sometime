@@ -39,7 +39,7 @@ Application Private Citizen by default. But in public locations always public.
 a Dimmitt private citizen time respected.
 
 ### Security
-### So, its like you build your followers and then you abondon them!
+### So, its like you build your followers and then you abandon them!
 In the beginning it was a few good friends. 
 But then there were some falling out's.
 Drama.
